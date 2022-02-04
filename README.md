@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahShields
 - 👀 I’m interested in learning everything I can and deciding which path I want to persue
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C at 42 Barcelona
 - 💞️ I’m looking to collaborate on everything!
 - 📫 You can reach me here! 
 
